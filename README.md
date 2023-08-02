@@ -29,7 +29,7 @@ Para poder ejecutar correctamente el proyecto, es necesario instalar las siguien
 
 ### Ejecución
 Ejecuta el proyecto con el comando
-###### `python index.py`
+###### `python app.py`
 O directamente desde tu IDE
 
 ### Contribuidores
