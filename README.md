@@ -33,6 +33,8 @@ Ejecuta el proyecto con el comando
 O directamente desde tu IDE
 
 ### Contribuidores
-Agradecimiento a [Esbisans](https://github.com/Esbisans "Esbisan") por su valioso trabajo en el desarrollo del frontend de la aplicación.
+Agradecimiento a [Esbisan](https://github.com/Esbisans "Esbisan") por su valioso trabajo en el desarrollo del frontend de la aplicación.
 
-<img src="https://avatars.githubusercontent.com/u/61194335?v=4 " alt="Icono del Contribuidor" style="width:50px; height:50px; border-radius:50%;">
+<a href="https://github.com/Esbisans">
+<img src="https://avatars.githubusercontent.com/u/61194335?v=4" alt="Los Tejos" style="width:50px; border-radius:50%"/>
+</a>
