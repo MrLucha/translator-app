@@ -36,5 +36,5 @@ O directamente desde tu IDE
 Agradecimiento a [Esbisan](https://github.com/Esbisans "Esbisan") por su valioso trabajo en el desarrollo del frontend de la aplicación.
 
 <a href="https://github.com/Esbisans">
-<img src="https://avatars.githubusercontent.com/u/61194335?v=4" alt="Los Tejos" style="width:50px; border-radius:50%"/>
+<img src="https://avatars.githubusercontent.com/u/61194335?v=4" alt="Los Tejos" style="width:50px; border-radius:50%;"/>
 </a>
